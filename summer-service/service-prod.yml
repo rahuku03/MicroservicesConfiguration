@@ -1,2 +1,5 @@
 service:
    greeting:this is from service 2
+   
+   
+report-type:pdf
